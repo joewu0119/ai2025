@@ -57,3 +57,19 @@ Finance: Fraud detection, algorithmic trading, credit scoring.
 Retail: Customer recommendation systems, inventory management, chatbot assistants.
 Autonomous Vehicles: Self-driving cars that use AI for navigation and decision-making.
 Entertainment: AI in video games, content recommendations (e.g., Netflix, YouTube)
+
+
+
+
+
+
+# gan
+GANs are used for generating new data by having two networks (generator and discriminator) compete with each other.
+
+
+# vae
+VAEs are generative models that learn to represent data in a probabilistic manner, allowing for the generation of new data based on learned representations.
+
+
+# transformers
+Transformers (like GPT-4) are deep learning models built around the self-attention mechanism, excelling in handling sequential data such as text and achieving state-of-the-art performance in NLP tasks.
