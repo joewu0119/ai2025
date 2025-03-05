@@ -193,7 +193,7 @@ Depending on how the evening goes, you can continue socializing or relax at home
 
 # 4. AI Summarization & Report Generation
 
-the article link
+the article link　：
 https://www.bbc.com/news/articles/cddy2l9lmjpo
 
 Structured Report:
