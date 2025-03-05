@@ -85,7 +85,9 @@ Ethical Standards: Labeling AI content promotes ethical standards in content cre
 
 # Please introduce Hsinchu City in Taiwan using 100 words in English, Chinese, and Japanese.
 
+
 # part 1
+
 English:
 Hsinchu City, located in northern Taiwan, is known as the "Windy City" due to its strong coastal winds. It is a major hub for Taiwan’s technology industry, home to the Hsinchu Science and Industrial Park, which houses many high-tech companies. The city also offers a rich cultural heritage with landmarks like the Hsinchu City God Temple. Hsinchu is renowned for its delicious local food, including rice noodles and meatballs. It combines modernity with traditional charm, offering both innovative technological advancements and a deep connection to Taiwanese culture.
 
@@ -96,6 +98,7 @@ Hsinchu City, located in northern Taiwan, is known as the "Windy City" due to it
 新竹市は台湾北部に位置し、強風で有名な「風の街」として知られています。新竹は台湾のテクノロジー産業の中心であり、新竹科学園区には多くのハイテク企業が集まっています。市内には新竹市城隍廟などの歴史的な文化遺産もあります。新竹は米粉や肉圓などの美味しい地元料理でも有名です。新竹は現代的な技術と伝統的な魅力が融合した都市で、台湾の文化との深い繋がりを持っています。
 
 # part 2
+
 English:
 Zhudong, located in the northern part of Taiwan's Hsinchu County, is a charming town known for its peaceful atmosphere and rich agricultural heritage. The town is famous for its production of high-quality rice, tea, and fruits, making it an important part of Taiwan's farming industry. Zhudong is also home to several cultural landmarks, including temples and historical sites. The nearby Zhudong Railway Station, part of Taiwan's historic railway network, adds to the town's charm, offering a glimpse into Taiwan's transportation history. It's a perfect blend of rural beauty and cultural significance.
 
@@ -104,6 +107,7 @@ Zhudong, located in the northern part of Taiwan's Hsinchu County, is a charming 
 
 日本語:
 竹東（チュウトン）は、台湾の新竹県北部に位置する静かな町で、豊かな農業遺産と穏やかな雰囲気が特徴です。この町は高品質の米、茶、果物の生産で有名で、台湾の農業産業にとって重要な役割を果たしています。竹東には寺院や歴史的な場所など、いくつかの文化的名所もあります。また、竹東駅は台湾の歴史的な鉄道ネットワークの一部で、町の魅力を高めています。農村の美しさと文化的意義が融合した町です。
+
 
 
 
@@ -116,7 +120,10 @@ Consistency: Strong prompt engineering can reduce the chance of ambiguous or irr
 Optimization for Specific Needs: Prompts tailored to specific requirements can ensure that AI-generated content meets user expectations, whether for technical tasks, creative content, or complex problem-solving.
 Ultimately, the ability to shape prompts effectively allows AI to operate in a way that is more aligned with user needs.
 
+
+
 # Why is clear instruction important when communicating with AI?
+
 
 Clear instructions are crucial for several reasons:
 
@@ -125,7 +132,11 @@ Efficiency: Precise instructions streamline the interaction, reducing the need f
 Customization: Clear instructions allow users to tailor the response to their specific needs, whether they are looking for a detailed explanation, a simple answer, or a creative solution.
 Without clear guidance, the AI might struggle to understand the context, leading to less useful or off-target responses.
 
+
+
+
 # Can AI generate different responses based on small changes in the prompt? Try and find out!
+
 
 Yes, AI can generate different responses based on small changes in the prompt. Let me show you by experimenting with slight variations.
 
@@ -143,9 +154,12 @@ As you can see, while both responses focus on the same topic, they differ slight
 
 
 
+
 # ✅ **Task:** Ask ChatGPT to create a **personalized daily schedule** using this prompt:
 
+
 ***"I have a meeting at 10 AM on Saturday morning, want to visit the Hsinchu Zoo in the afternoon, and plan to have dinner with friends at night. Please arrange my day with time slots."***
+
 
 
 Saturday Schedule
@@ -223,7 +237,11 @@ The UK government’s approach to funding higher education has long been under s
 Conclusion:
 The article concludes by highlighting the severity of the financial crisis in UK higher education, with unions warning that up to 10,000 university jobs are at risk due to the ongoing funding shortfalls. The crisis, exacerbated by a decline in international student enrollment and government funding gaps, is leading universities to make tough decisions that will affect both staff and students. The UCU and other unions are calling for urgent government intervention to provide financial stability and prevent further job cuts. The potential consequences of these cuts on the quality of education, student services, and university staff morale are significant, making it crucial for all parties to work together to find a sustainable solution for the future of higher education in the UK.
 
+
+
+
 # 5. AI-Generated Social Media Content
+
 
 🚀✨ Meet Peter, an aspiring AI expert, who is currently diving deep into the world of Artificial Intelligence at Chung Hua University (CHU) in Taiwan! 🌟🤖
 
@@ -234,7 +252,11 @@ Stay tuned as he unlocks the secrets of AI and takes on exciting challenges ahea
 #AIJourney #ArtificialIntelligence #ChungHuaUniversity #Taiwan #StudentLife #TechFuture #AIExploration #FutureOfTech #MachineLearning #Innovation #TechGoals #LearnAndGrow #AI #Education #NextGenTech #CHU
 
 
+
+
+
 # 6. AI Video Script Generator
+
 
 Video Script (1 Minute) - Hsinchu Science Park
 
@@ -265,7 +287,10 @@ Narrator (Voiceover):
 [Text on Screen: "Hsinchu Science Park – Leading Innovation. Shaping the Future."]
 
 
+
+
 # 7. AI-Powered Recommendation System
+
 
 Certainly! Here are five highly recommended restaurants in Hsinchu, Taiwan:
 
