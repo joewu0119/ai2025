@@ -140,3 +140,163 @@ Response to Prompt 2:
 "Physical activity has several advantages, such as strengthening the heart, improving lung capacity, and enhancing flexibility. It also helps control body weight, reduces the risk of chronic diseases like diabetes, and promotes mental health by reducing anxiety and depression."
 
 As you can see, while both responses focus on the same topic, they differ slightly in phrasing and emphasis. The slight change in the prompt (from "benefits" to "advantages" and "exercise" to "physical activity") led to subtle variations in the way the AI structured the response and the specific points it highlighted
+
+
+
+# ✅ **Task:** Ask ChatGPT to create a **personalized daily schedule** using this prompt:
+
+***"I have a meeting at 10 AM on Saturday morning, want to visit the Hsinchu Zoo in the afternoon, and plan to have dinner with friends at night. Please arrange my day with time slots."***
+
+
+Saturday Schedule
+10:00 AM – 11:30 AM: Meeting
+
+Attend your scheduled meeting.
+11:30 AM – 12:00 PM: Break
+
+Take a short break after the meeting to relax or grab a light snack.
+12:00 PM – 1:00 PM: Lunch
+
+Enjoy a quick lunch before heading to the zoo.
+1:00 PM – 3:00 PM: Visit Hsinchu Zoo
+
+Spend a couple of hours at the zoo, exploring the animals and exhibits.
+3:00 PM – 3:30 PM: Break
+
+Take a short break after your zoo visit, maybe grab a coffee or rest.
+3:30 PM – 5:00 PM: Explore the area
+
+If you have time, take a stroll around Hsinchu or visit nearby attractions, parks, or shopping areas.
+5:00 PM – 6:30 PM: Return home / Freshen up
+
+Head home to relax and freshen up before dinner.
+6:30 PM – 8:30 PM: Dinner with friends
+
+Enjoy a meal with your friends at your chosen restaurant.
+8:30 PM onwards: Relax or Socialize
+
+Depending on how the evening goes, you can continue socializing or relax at home.
+
+# 4. AI Summarization & Report Generation
+
+the article link
+https://www.bbc.com/news/articles/cddy2l9lmjpo
+
+Structured Report:
+Topic:
+The article addresses the significant job cuts at UK universities due to financial difficulties exacerbated by declining international student enrollment, government funding gaps, and the ongoing economic crisis. Unions are warning that up to 10,000 university jobs could be at risk, creating tension among university staff and students, leading to strikes and concerns over the future of education quality.
+
+Abstract:
+The University and College Union (UCU) has warned that up to 10,000 university jobs could be at risk due to the "unprecedented crisis" facing the higher education sector in the UK. The crisis is primarily driven by reduced international student numbers, stricter visa policies, and gaps in funding. Several universities, including the University of Sheffield, have announced plans to reduce staff numbers, leading to strikes from concerned staff members. The article highlights the difficult decisions facing university leadership and calls for government intervention to stabilize the sector. The impact on staff and students is central to the ongoing debate.
+
+Key Themes:
+Job Losses and Financial Strain on Universities:
+The article focuses on the warning from unions about potential widespread job cuts within UK universities. The financial pressures, worsened by a reduction in international students and increased government funding gaps, are driving institutions to make difficult decisions regarding staff reductions.
+
+Government and University Responses:
+The role of government intervention and university leadership is crucial in managing the crisis. Universities UK, which represents higher education institutions, has urged the government to take sustained action to provide financial stability, while the Department for Education has acknowledged the financial risks the sector faces.
+
+Impact on Staff and Students:
+Staff layoffs, including academic and non-academic roles, have already been proposed at several universities, with potential consequences on the quality of education. Students are also concerned about the cuts and the resulting reduction in services and academic support.
+
+Union Strikes and Concerns:
+The UCU and university staff have voted to strike in response to the proposed cuts. Their concerns center around the uncertainty of job security, the impact on the student experience, and the broader implications for the future of higher education in the UK.
+
+International Students and Financial Dependency:
+The financial challenges universities face are compounded by falling numbers of international students, who typically pay higher fees and contribute more significantly to university revenue. Stricter visa regulations have contributed to the decline in international student numbers, exacerbating the financial difficulties.
+
+Main Content:
+The UK higher education sector is facing an "unprecedented crisis" that could lead to up to 10,000 job cuts in universities across the country, according to the University and College Union (UCU). The union reports that 5,000 job cuts have already been announced, with the risk of further reductions due to a significant gap in university funding. This situation is being exacerbated by various factors, including the financial impact of the COVID-19 pandemic and a decrease in the number of international students, who have historically contributed substantial revenue to UK universities.
+
+International students are a vital source of income for many UK institutions, as they typically pay higher tuition fees than domestic students. However, the introduction of stricter visa restrictions last year has caused a sharp decline in the number of international students enrolling in UK universities. This, in turn, has led to a substantial reduction in university revenues, placing significant financial strain on institutions.
+
+One university that has been particularly impacted is the University of Sheffield, which has announced plans to cut £23 million in staffing costs. This includes reductions in both academic and non-academic roles, such as admissions staff and student support officers. The university has introduced measures to manage staff vacancies and reduce the need for compulsory redundancies, including offering a voluntary severance scheme. However, staff members, particularly in departments like digital support, are expressing concern over the future of their jobs. Jenny Hughes, a member of the digital support team, voiced her worries about job security, stating that staff are uncertain about their roles and whether they will even have jobs in six months' time.
+
+Linguistics lecturer Robyn Orfitelli, who is also the UCU branch president at Sheffield, warned that these cuts would have severe consequences for students' education. She stressed that students are not being adequately informed about how these staffing cuts might affect the quality of their education. Several students at the University of Sheffield shared their concerns about the potential loss of lecturers and the impact on their learning experience. One student, Mark, highlighted the contradiction between high tuition fees and the risk of job losses within the university.
+
+The situation has led to widespread strikes at several universities, including Dundee and Newcastle, as staff members protest against the proposed cuts. The strikes have been organized to show solidarity with those whose jobs are at risk and to demand more protection for university staff. The unions argue that these job cuts will diminish the quality of education and student services, further straining an already vulnerable sector.
+
+Universities UK, which represents 141 UK universities, acknowledged that vice-chancellors have been faced with "extremely tough decisions" due to the financial crisis. They have called for "sustained action" from the government to bring financial stability to the sector. The Department for Education (DfE) also recognized the financial difficulties facing universities but pointed out that the government had "inherited a sector facing serious financial risk" and had already made "tough decisions" to address the situation. However, the unions argue that more needs to be done to secure the future of higher education in the UK.
+
+The UK government’s approach to funding higher education has long been under scrutiny, and the current crisis has only intensified calls for a more sustainable funding model. The over-reliance on tuition fees, particularly those paid by international students, is seen as an unsustainable model that leaves universities vulnerable to external factors like changes in immigration policies and global economic instability.
+
+Conclusion:
+The article concludes by highlighting the severity of the financial crisis in UK higher education, with unions warning that up to 10,000 university jobs are at risk due to the ongoing funding shortfalls. The crisis, exacerbated by a decline in international student enrollment and government funding gaps, is leading universities to make tough decisions that will affect both staff and students. The UCU and other unions are calling for urgent government intervention to provide financial stability and prevent further job cuts. The potential consequences of these cuts on the quality of education, student services, and university staff morale are significant, making it crucial for all parties to work together to find a sustainable solution for the future of higher education in the UK.
+
+# 5. AI-Generated Social Media Content
+
+🚀✨ Meet Peter, an aspiring AI expert, who is currently diving deep into the world of Artificial Intelligence at Chung Hua University (CHU) in Taiwan! 🌟🤖
+
+Peter is all set to explore the endless possibilities of AI with the "AI Journey" course, where he’s learning the cutting-edge skills to shape the future. 💡🔍 From neural networks to machine learning, this journey is just beginning! 🌱💻
+
+Stay tuned as he unlocks the secrets of AI and takes on exciting challenges ahead! 🎓👨‍💻
+
+#AIJourney #ArtificialIntelligence #ChungHuaUniversity #Taiwan #StudentLife #TechFuture #AIExploration #FutureOfTech #MachineLearning #Innovation #TechGoals #LearnAndGrow #AI #Education #NextGenTech #CHU
+
+
+# 6. AI Video Script Generator
+
+Video Script (1 Minute) - Hsinchu Science Park
+
+[Opening Scene: Aerial view of Hsinchu Science Park]
+Narrator (Voiceover):
+"Nestled in the heart of Taiwan, the Hsinchu Science Park is a symbol of innovation and technological advancement."
+
+[Cut to: Footage of tech companies, labs, and research centers in Hsinchu Science Park]
+Narrator (Voiceover):
+"Founded in 1980, Hsinchu Science Park has grown into one of Asia’s leading tech hubs, home to over 400 high-tech companies and world-class research institutions."
+
+[Cut to: Engineers and researchers working in laboratories and on computers]
+Narrator (Voiceover):
+"From semiconductor giants like TSMC to groundbreaking companies in AI, biotech, and green energy, Hsinchu is at the forefront of shaping the future."
+
+[Cut to: Close-up of TSMC chips being produced and packaged]
+Narrator (Voiceover):
+"TSMC, the world’s largest semiconductor foundry, calls Hsinchu home, playing a vital role in Taiwan’s tech leadership and global innovation."
+
+[Cut to: Hsinchu city skyline, bustling tech industry]
+Narrator (Voiceover):
+"The impact of Hsinchu Science Park is undeniable. It drives Taiwan’s economy, fuels global tech development, and creates countless opportunities in innovation and entrepreneurship."
+
+[Closing Scene: Young professionals working together in a modern tech office]
+Narrator (Voiceover):
+"Hsinchu Science Park: where Taiwan’s technological future is being built, one breakthrough at a time."
+
+[Text on Screen: "Hsinchu Science Park – Leading Innovation. Shaping the Future."]
+
+
+# 7. AI-Powered Recommendation System
+
+Certainly! Here are five highly recommended restaurants in Hsinchu, Taiwan:
+
+A CUT Steakhouse
+
+Phone: +886 3 523 8000
+Address: No. 1, Guanqian Road, East District, Hsinchu City, Taiwan
+Description: Renowned for its premium cuts and sophisticated ambiance, A CUT offers a memorable dining experience for steak enthusiasts. 
+EN.TRIPADVISOR.COM.HK
+Din Tai Fung
+
+Phone: +886 3 572 8000
+Address: No. 2, Zhonghua Road, Hsinchu City, Taiwan
+Description: Famous for its xiaolongbao (soup dumplings) and a variety of other dim sum delights, Din Tai Fung combines tradition with culinary excellence. 
+EN.TRIPADVISOR.COM.HK
+Fleur Lis
+
+Phone: +886 3 572 9000
+Address: No. 10, Dongda Road, Hsinchu City, Taiwan
+Description: Offering a fusion of French and Taiwanese cuisines, Fleur Lis provides a unique and refined dining experience. 
+EN.TRIPADVISOR.COM.HK
+Tokiya (Zhubei Guangming Branch)
+
+Phone: +886 3 657 7777
+Address: No. 1, Guangming Road, Zhubei City, Hsinchu County, Taiwan
+Description: Specializing in Japanese-inspired dishes, Tokiya offers a diverse menu in a cozy setting. 
+TRIPADVISOR
+Feast – Buffet and All Day Dining at Sheraton Hsinchu Hotel
+
+Phone: +886 3 560 1000
+Address: No. 3, Zhonghua Road, East District, Hsinchu City, Taiwan
+Description: Providing an extensive buffet with both international and local selections, Feast ensures a satisfying meal for all tastes. 
+TRIPADVISOR
+Enjoy your culinary adventures in Hsinchu!
