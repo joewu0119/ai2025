@@ -81,3 +81,62 @@ Ethical Standards: Labeling AI content promotes ethical standards in content cre
 
 
 ![image](https://github.com/user-attachments/assets/01115c40-5825-4e82-a38e-7c07564d088d)
+
+
+# Please introduce Hsinchu City in Taiwan using 100 words in English, Chinese, and Japanese.
+
+# part 1
+English:
+Hsinchu City, located in northern Taiwan, is known as the "Windy City" due to its strong coastal winds. It is a major hub for Taiwan’s technology industry, home to the Hsinchu Science and Industrial Park, which houses many high-tech companies. The city also offers a rich cultural heritage with landmarks like the Hsinchu City God Temple. Hsinchu is renowned for its delicious local food, including rice noodles and meatballs. It combines modernity with traditional charm, offering both innovative technological advancements and a deep connection to Taiwanese culture.
+
+中文:
+新竹市位於台灣北部，被譽為「風城」，因為這裡的強風很有名。新竹是台灣科技產業的重要中心，擁有新竹科學工業園區，聚集了許多高科技公司。這座城市也擁有豐富的文化遺產，像是新竹市城隍廟等地標。新竹的當地美食非常有名，包括米粉和肉圓。新竹融合了現代科技與傳統魅力，既有創新技術，又保持著台灣的文化根基。
+
+日本語:
+新竹市は台湾北部に位置し、強風で有名な「風の街」として知られています。新竹は台湾のテクノロジー産業の中心であり、新竹科学園区には多くのハイテク企業が集まっています。市内には新竹市城隍廟などの歴史的な文化遺産もあります。新竹は米粉や肉圓などの美味しい地元料理でも有名です。新竹は現代的な技術と伝統的な魅力が融合した都市で、台湾の文化との深い繋がりを持っています。
+
+# part 2
+English:
+Zhudong, located in the northern part of Taiwan's Hsinchu County, is a charming town known for its peaceful atmosphere and rich agricultural heritage. The town is famous for its production of high-quality rice, tea, and fruits, making it an important part of Taiwan's farming industry. Zhudong is also home to several cultural landmarks, including temples and historical sites. The nearby Zhudong Railway Station, part of Taiwan's historic railway network, adds to the town's charm, offering a glimpse into Taiwan's transportation history. It's a perfect blend of rural beauty and cultural significance.
+
+中文:
+竹東鎮位於台灣新竹縣北部，是一個以寧靜氛圍和豐富農業文化著稱的小鎮。這裡以生產高品質的稻米、茶葉和水果聞名，是台灣農業的重要一環。竹東還擁有許多文化地標，包括廟宇和歷史遺址。附近的竹東火車站是台灣歷史悠久的鐵路網的一部分，增添了這個小鎮的魅力，讓人一窺台灣交通歷史。竹東是結合農村美景和文化意義的完美範例。
+
+日本語:
+竹東（チュウトン）は、台湾の新竹県北部に位置する静かな町で、豊かな農業遺産と穏やかな雰囲気が特徴です。この町は高品質の米、茶、果物の生産で有名で、台湾の農業産業にとって重要な役割を果たしています。竹東には寺院や歴史的な場所など、いくつかの文化的名所もあります。また、竹東駅は台湾の歴史的な鉄道ネットワークの一部で、町の魅力を高めています。農村の美しさと文化的意義が融合した町です。
+
+
+
+# How can strong prompt engineering improve AI’s usefulness?
+
+Strong prompt engineering can significantly enhance the effectiveness and relevance of AI responses. By carefully crafting prompts, users can guide AI to generate more precise, focused, and contextually appropriate outputs. This leads to several benefits:
+
+Higher Quality Responses: A well-constructed prompt provides clear instructions, allowing the AI to better understand the task and provide more accurate and relevant answers.
+Consistency: Strong prompt engineering can reduce the chance of ambiguous or irrelevant outputs, ensuring that the AI adheres to the desired scope of the task.
+Optimization for Specific Needs: Prompts tailored to specific requirements can ensure that AI-generated content meets user expectations, whether for technical tasks, creative content, or complex problem-solving.
+Ultimately, the ability to shape prompts effectively allows AI to operate in a way that is more aligned with user needs.
+
+# Why is clear instruction important when communicating with AI?
+
+Clear instructions are crucial for several reasons:
+
+Accuracy: Ambiguity in prompts can lead to irrelevant or incorrect answers. Clear instructions help the AI understand the task, ensuring that the output aligns with what the user wants.
+Efficiency: Precise instructions streamline the interaction, reducing the need for follow-up questions or clarifications. This makes communication with AI faster and more efficient.
+Customization: Clear instructions allow users to tailor the response to their specific needs, whether they are looking for a detailed explanation, a simple answer, or a creative solution.
+Without clear guidance, the AI might struggle to understand the context, leading to less useful or off-target responses.
+
+# Can AI generate different responses based on small changes in the prompt? Try and find out!
+
+Yes, AI can generate different responses based on small changes in the prompt. Let me show you by experimenting with slight variations.
+
+Prompt 1: "Tell me about the benefits of exercise."
+Prompt 2: "What are the advantages of physical activity?"
+Let me generate responses based on these prompts:
+
+Response to Prompt 1:
+"Exercise provides numerous benefits, including improved cardiovascular health, enhanced mood, weight management, and stronger muscles and bones. Regular physical activity can also boost energy levels, reduce stress, and improve sleep quality."
+
+Response to Prompt 2:
+"Physical activity has several advantages, such as strengthening the heart, improving lung capacity, and enhancing flexibility. It also helps control body weight, reduces the risk of chronic diseases like diabetes, and promotes mental health by reducing anxiety and depression."
+
+As you can see, while both responses focus on the same topic, they differ slightly in phrasing and emphasis. The slight change in the prompt (from "benefits" to "advantages" and "exercise" to "physical activity") led to subtle variations in the way the AI structured the response and the specific points it highlighted
