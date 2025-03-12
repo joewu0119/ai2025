@@ -138,3 +138,41 @@ Japanese:
 
 
 
+ # Quiz 1: Self-Introduction with AI (自我介紹練習 | 自己紹介練習)
+
+
+Introduction:
+
+
+Hello, my name is Joe. I am currently enrolled in a double degree program at Chu University, where I focus on the management of business. In addition to my academic pursuits, I enjoy listening to music and occasionally relaxing with a good beer.
+
+
+# Quiz 2: Summarization & Repeatability Check (摘要測試與再現性檢查 | 要約の再現性チェック)
+
+
+
+https://www.ettoday.net/news/20250312/2923763.htm
+
+
+This article discusses seven major job sectors that are difficult for AI to replace, including healthcare, technical professions, education, mental health, public safety, creative jobs, and the green energy industry. As the population ages and societal needs grow, these sectors will continue to provide stable employment opportunities.
+
+
+# Quiz 3: Keyword Extraction & Repeatability Test (關鍵字提取與一致性測試 | キーワード抽出テスト)
+
+
+The top 5 keywords from the paragraph are:
+
+
+1.AI (Artificial Intelligence)
+
+
+2.Healthcare
+
+
+3.Technical professions
+
+
+4.Education
+
+
+5.Employment opportunities
