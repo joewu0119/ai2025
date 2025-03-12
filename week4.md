@@ -448,3 +448,200 @@ Machine learning (ML) refers to the development of algorithms that allow systems
 
 
 
+# 21.Prompt Variables (變數化設計, プロンプト変数化)
+
+
+English:
+Introducing the [Product Name], the ultimate [Product Type] designed to [Key Benefit]. Featuring [Feature 1], [Feature 2], and [Feature 3], it offers [Key Advantage]. Ideal for [Target Audience], this [Product Type] ensures [Outcome or Result]. Available now at [Price] for a limited time only!
+
+Chinese:
+介紹 [Product Name]，這款終極的 [Product Type]，專為 [Key Benefit] 設計。配備 [Feature 1]、[Feature 2] 和 [Feature 3]，它提供了 [Key Advantage]。這款 [Product Type] 是 [Target Audience] 的理想選擇，能確保 [Outcome or Result]。現在只需 [Price]，限時供應！
+
+Japanese:
+[Product Name]を紹介します。これは[Key Benefit]を目的とした究極の[Product Type]です。[Feature 1]、[Feature 2]、[Feature 3]を搭載しており、[Key Advantage]を提供します。[Target Audience]に最適なこの[Product Type]は、[Outcome or Result]を保証します。[Price]で今すぐ購入可能、期間限定！
+
+
+
+# 22.Automated Template Filling (自動化模板, 自動入力テンプレート)
+
+
+English:
+Tesla Model S is an electric sedan with autopilot capabilities and long-range battery, offering sustainable driving with zero emissions.
+
+Chinese:
+特斯拉 Model S 是一款 電動轎車，擁有 自動駕駛功能 和 長續航電池，提供 零排放的可持續駕駛體驗。
+
+Japanese:
+テスラ Model S は 電動セダン で、オートパイロット機能 と 長距離バッテリー を搭載し、ゼロエミッションで持続可能なドライビング を提供します。
+
+
+
+# 23.Chain of Thought (CoT, 思維鏈)
+
+
+Let's break it down:
+
+Start with 10 apples.
+Give 3 apples away: 10 - 3 = 7 apples.
+Buy 5 more apples: 7 + 5 = 12 apples.
+Eat 1 apple: 12 - 1 = 11 apples.
+So, you have 11 apples remaining.
+
+
+# 24.Multi-Step Math (多步數學, 数学的な推論)
+
+
+Step-by-Step Explanation:
+Speed: The car is traveling at 60 km/h (kilometers per hour).
+Time: The car travels for 4 hours.
+Multiply the speed by the time:
+Distance = 60 km/h × 4 hours = 240 kilometers.
+Final Answer:
+The car travels 240 kilometers in 4 hours.
+
+
+# 25.Zero-shot CoT (零樣本CoT, ゼロショットCoT)
+
+
+The student starts with 20 dollars.
+Buys a pen for 5 dollars: 20 - 5 = 15 dollars.
+Buys a book for 10 dollars: 15 - 10 = 5 dollars.
+Final Answer:
+The student has 5 dollars remaining.
+
+
+
+# 26.Tree-of-Thoughts (ToT, 思維樹技術)
+
+
+AI Expert 1: The Physical Perspective
+From a purely physical standpoint, the ball's location is wherever it was last moved or placed. If someone moves it between rooms, it’s in the room where it was placed after the final move. So, to find the ball, you’d need to determine the current room it was placed in.
+
+AI Expert 2: The Computational Perspective
+From a computational view, we would need to track each step of the ball's movement. This could involve sensors or a database that records the ball's position in real-time. Without tracking, the ball’s location is unknown until the last recorded data point is accessed, meaning we only know the ball's current location if the movements have been properly logged.
+
+AI Expert 3: The Philosophical Perspective
+From a philosophical or theoretical AI perspective, the ball may not have a definitive location unless observed. If no one is tracking or observing the ball, then its location could be considered ambiguous. It would exist in a superposition of all possible locations between rooms until it’s physically checked, aligning with concepts in quantum mechanics about observation and the state of objects.
+
+
+
+# 27.Variable Prompt Design (變數化提示詞, 変数化プロンプト)
+
+
+Prompt Template:
+Compute the travel distance:
+
+Given the following parameters:
+
+Speed: [Speed] (in [units], e.g., km/h, m/s)
+Time: [Time] (in [units], e.g., hours, minutes)
+Calculate the distance traveled using the formula:
+Distance = Speed × Time
+
+Instructions:
+Replace [Speed] with the speed at which the vehicle is moving.
+Replace [Time] with the time the vehicle has been traveling.
+Use the correct units for speed and time to ensure the distance is in the desired unit (e.g., kilometers, meters, miles).
+Example:
+If the speed is 60 km/h and the time is 3 hours, the distance would be 60 × 3 = 180 kilometers.
+
+
+# 28.Historical Chain of Thought (歷史推理, 歴史的な推論)
+
+
+
+1. Political Instability and Corruption
+Leaders: The Roman Empire faced a lack of stable leadership. Frequent changes in emperors, often through assassination or civil war, destabilized the empire.
+Corruption: Government officials became increasingly corrupt, undermining the efficiency of the empire's political and administrative systems.
+2. Economic Decline
+Heavy Taxes: To fund the military and government, taxes were raised, burdening the lower classes and leading to widespread poverty.
+Inflation: The Roman Empire experienced inflation due to the devaluation of currency, which further weakened the economy.
+Trade Decline: Trade routes were disrupted, and the empire’s economy became more reliant on slave labor, hindering innovation and economic growth.
+3. Military Problems
+Barbarian Invasions: The Roman Empire faced constant invasions from various barbarian groups such as the Visigoths, Vandals, and Huns. These invasions weakened the empire’s borders and military defenses.
+Mercenary Army: The Roman military began to rely more on mercenaries (non-Roman soldiers), who were less loyal to the empire and often had their own agendas.
+4. Division of the Empire
+Division into East and West: In 285 AD, Emperor Diocletian split the Roman Empire into two parts: the Eastern Roman Empire (Byzantine Empire) and the Western Roman Empire. This division weakened the unity and resources of the empire, making it harder to defend and manage.
+West's Decline: While the Eastern Roman Empire (Byzantine Empire) remained strong for centuries, the Western Roman Empire became weaker and more vulnerable to external threats.
+5. Social and Cultural Decline
+Loss of Civic Pride: The Roman citizens lost their sense of civic responsibility and pride in their empire, leading to less support for the government and military.
+Christianity’s Rise: The spread of Christianity and the decline of traditional Roman religious practices shifted the cultural and social structure, which some historians argue contributed to weakening the empire’s unity and authority.
+6. Internal Rebellions and Civil Wars
+Civil Strife: As the empire became more politically unstable, several internal rebellions and civil wars occurred, further dividing the empire and weakening its ability to defend against external threats.
+Economic and Social Unrest: The rise of powerful regional leaders and local militias increased internal conflicts, making it harder to maintain control.
+7. The Fall of the Western Roman Empire
+476 AD: The traditional date for the fall of the Western Roman Empire is 476 AD, when the last Roman emperor, Romulus Augustulus, was overthrown by the Germanic king Odoacer. This event marked the official end of the Western Roman Empire, though many of the causes had been in place for centuries.
+Conclusion
+The fall of the Roman Empire was not caused by a single event but by a combination of internal weaknesses (political instability, economic decline, and military problems) and external pressures (barbarian invasions). Over time, these factors eroded the strength of the empire, leading to its eventual collapse. The Eastern Roman Empire (Byzantine Empire) continued to survive for several more centuries until it fell in 1453 AD.
+
+
+你說：
+change to chinese
+ChatGPT 說：
+罗马帝国的衰落是一个复杂的过程，发生在数个世纪的时间里。以下是导致罗马帝国衰落的主要因素的逐步解释：
+
+1. 政治不稳定和腐败
+领导问题：罗马帝国面临领导层不稳定的问题。皇帝经常更替，常常通过刺杀或内战更换，导致帝国政权不稳。
+腐败：政府官员越来越腐败，削弱了帝国政治和行政系统的效率。
+2. 经济衰退
+沉重的税收：为了资助军队和政府，税收不断上升，加重了低层阶级的负担，导致广泛的贫困。
+通货膨胀：由于货币贬值，罗马帝国经历了通货膨胀，进一步削弱了经济。
+贸易衰退：贸易路线遭到破坏，帝国的经济变得更加依赖奴隶劳动力，这抑制了创新和经济增长。
+3. 军事问题
+蛮族入侵：罗马帝国不断遭受来自蛮族的入侵，如西哥特人、汪达尔人和匈奴人。这些入侵削弱了帝国的边防和军事防御。
+雇佣军：罗马军队开始更多依赖雇佣军（非罗马士兵），这些士兵忠诚度较低，往往有自己的议程。
+4. 帝国的分裂
+东西帝国分裂：公元285年，皇帝戴克里先将罗马帝国分为东西两部分：东罗马帝国（拜占庭帝国）和西罗马帝国。这个分裂削弱了帝国的统一性和资源，使得防御和管理更加困难。
+西部衰退：虽然东罗马帝国（拜占庭帝国）在几个世纪内保持强大，但西罗马帝国变得越来越弱，容易受到外部威胁。
+5. 社会和文化的衰退
+公民荣誉感丧失：罗马公民失去了对帝国的责任感和骄傲，导致对政府和军队的支持减少。
+基督教的兴起：基督教的传播和传统罗马宗教的衰退改变了文化和社会结构，一些历史学家认为这加剧了帝国的内部不和和权威削弱。
+6. 内部叛乱和内战
+内战：随着帝国变得越来越不稳定，发生了多个内部叛乱和内战，这进一步分裂了帝国，并削弱了其防御外部威胁的能力。
+经济和社会动荡：强大的地方领导人和地方民兵的崛起增加了内部冲突，使得维持控制变得更加困难。
+7. 西罗马帝国的灭亡
+公元476年：西罗马帝国传统的灭亡日期是公元476年，当时最后一任罗马皇帝罗穆卢斯·奥古斯都被日耳曼王国的国王奥多亚塞推翻。这一事件标志着西罗马帝国的正式灭亡，尽管许多原因已经存在了几个世纪。
+结论
+罗马帝国的衰落不是由单一事件引起的，而是由内部的种种弱点（政治不稳定、经济衰退和军事问题）以及外部的压力（蛮族入侵）共同作用的结果。随着时间的推移，这些因素削弱了帝国的力量，最终导致了它的崩溃。东罗马帝国（拜占庭帝国）在几个世纪后继续存活，直到1453年才灭亡。
+
+
+
+
+# 29.Financial AI Analysis (財務分析AI, 財務分析のAI)
+
+
+Revenue per day:
+The restaurant makes $100 per seat and has 50 seats.
+Revenue per day = $100 × 50 = $5000.
+
+Revenue per week:
+The restaurant operates 7 days a week.
+Revenue per week = $5000 × 7 = $35,000.
+
+Final Answer:
+The restaurant's weekly revenue is $35,000.
+
+
+# 30.Real-Time AI Automation (實時AI應用, AI自動化)
+
+
+
+![image](https://github.com/user-attachments/assets/140d2154-4a71-4e6b-968e-316b0479b531)
+
+
+![image](https://github.com/user-attachments/assets/475e214c-8537-45ed-a2c5-b7a8ea39ac7a)
+
+
+Example of the Output:
+Assuming a dataset with columns like "Sales", "Product", "Date":
+
+Total Rows: 1000
+Column Summary:
+Sales: Mean: 200, Std Dev: 50, Min: 100, Max: 300
+Filtered Data: (Preview of rows where sales > 100)
+Automated Approach in Excel/Google Sheets (for non-programmers): If you’re looking to automate it without coding, you could use built-in functions in Excel or Google Sheets:
+
+Excel: Use SUM(), AVERAGE(), COUNTIF() for basic summary calculations.
+Google Sheets: Use =QUERY() or =FILTER() to automatically filter and summarize data.
+If you need further help with actual code implementation or a specific data example, feel free to share the datasheet (if it's in a supported format), and I can provide more tailored assistance!
+
