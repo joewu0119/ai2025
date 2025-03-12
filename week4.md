@@ -182,39 +182,52 @@ The top 5 keywords from the paragraph are:
 # 11.Article in Different Styles (不同風格文章, 異なる文体の文章)
 
 
+
 English:
 Hsinchu, Taiwan’s Silicon Valley, is a hub for tech innovation. Known for its semiconductor industry, it houses top tech companies like TSMC. The city’s rapid growth is fueling economic development and attracting global investment, making it a key player in the global tech scene.
 
+
 Chinese:
 新竹是台灣的矽谷，科技創新的中心。以半導體產業聞名，擁有台積電等頂尖科技公司。新竹的快速成長推動了經濟發展並吸引全球投資，成為全球科技舞台的重要角色。
+
 
 Japanese:
 新竹は台湾のシリコンバレーとして知られ、テクノロジー革新の中心地です。半導体産業で有名で、TSMCなどの主要なテクノロジー企業が集まっています。急速に成長するこの都市は、経済発展を促進し、世界的な投資を引き寄せています。
 
 
+
 # 12.Dramatic Writing (戲劇化寫作, ドラマチックな文章)
 
 
+
 English:
-AI has burst onto the scene, reshaping every facet of life. Jobs are vanishing, new ones are born. The balance of power shifts, as machines grow smarter than their creators. The future? Uncertain, yet thrilling.
+AI has 
+
 
 Chinese:
 人工智慧如洪水般席捲而來，重塑了生活的每一個角落。工作消失，新職位誕生。權力的天平在改變，機器超越了它們的創造者。未來？不確定，卻激動人心。
+
+
 
 Japanese:
 人工知能は爆発的に登場し、生活のあらゆる側面を再構築しています。仕事は消え、新たな仕事が生まれる。機械が創造主を超え、力のバランスが揺らぎます。未来は？不確かだが、胸躍るものがあります。
 
 
+
 # 13.Table Formatting (表格生成, 表作成)
+
 
 
 ![image](https://github.com/user-attachments/assets/981909cc-2171-42ec-930c-a80e804d4436)
 
 
+
 # 14.Step-by-Step Lists (步驟列表, ステップリスト作成)
 
 
+
 English:
+
 
 Install Python: Download and install Python from the official website to start coding.
 Learn Basic Syntax: Understand Python's simple syntax, including variables, data types, and operators.
@@ -223,12 +236,16 @@ Explore Libraries and Frameworks: Learn how to use Python's extensive libraries 
 Build Projects: Apply your knowledge by building real-world projects to solidify your skills.
 Chinese:
 
+
 安裝Python：從官方網站下載並安裝Python，開始編程。
 學習基本語法：理解Python的簡單語法，包括變數、數據類型和運算符。
 練習寫代碼：開始編寫小程序，獲取實踐經驗。
 探索庫和框架：學會使用Python的各種庫，提高編程效率。
 建立項目：通過構建真實項目來應用知識，鞏固技能。
+
+
 Japanese:
+
 
 Pythonをインストール：公式サイトからPythonをダウンロードしてインストールし、コーディングを始めます。
 基本的な構文を学ぶ：変数、データ型、演算子など、Pythonのシンプルな構文を理解します。
@@ -237,14 +254,19 @@ Pythonをインストール：公式サイトからPythonをダウンロード�
 プロジェクトを作成：リアルなプロジェクトを作成して知識を応用し、スキルを強化します。
 
 
+
 # 15.Markdown Formatting (Markdown 格式, Markdown 書式設定)
+
 
 
 # Effective Teamwork
 
+
 ## 1. Introduction
    - Definition of teamwork
    - Importance of effective teamwork in achieving goals
+
+
 
 ## 2. Key Principles of Effective Teamwork
    - Communication
@@ -252,30 +274,42 @@ Pythonをインストール：公式サイトからPythonをダウンロード�
    - Trust
    - Respect
 
+
+
 ## 3. Roles and Responsibilities in a Team
    - Defining clear roles
    - Delegating tasks based on strengths
    - Accountability
+
+
 
 ## 4. Building Strong Relationships
    - Importance of interpersonal relationships
    - Conflict resolution strategies
    - Encouraging open dialogue
 
+
+
 ## 5. Tools and Techniques for Effective Teamwork
    - Project management tools (e.g., Trello, Asana)
    - Communication platforms (e.g., Slack, Zoom)
    - Collaborative document editing (e.g., Google Docs)
+
+
 
 ## 6. Overcoming Common Teamwork Challenges
    - Dealing with misunderstandings
    - Managing team conflicts
    - Adapting to diverse work styles
 
+
+
 ## 7. Measuring Team Success
    - Setting clear goals and objectives
    - Regular performance evaluations
    - Feedback loops
+
+
 
 ## 8. Conclusion
    - Recap of key teamwork principles
@@ -283,7 +317,9 @@ Pythonをインストール：公式サイトからPythonをダウンロード�
 
 
 
+
 # 16.Automated Data Reports (數據報告生成, データレポート生成)
+
 
 
 Month,Product A Sales,Product B Sales,Product C Sales,Total Sales
@@ -302,85 +338,111 @@ December,1500,1700,1100,5300
 
 
 
+
 # 17.Marketing Copywriting (行銷文案, マーケティングコピー作成)
+
 
 
 Feature:
 The iPhone 16 comes with a state-of-the-art A16 Bionic chip, 5G capability, and a stunning 6.7-inch Super Retina XDR display.
 
+
 Advantage:
 The A16 Bionic chip ensures lightning-fast performance, allowing seamless multitasking and gaming, while the 5G connectivity provides ultra-fast download and upload speeds. The Super Retina XDR display enhances your viewing experience with rich colors and sharp details.
+
 
 Benefit:
 With the iPhone 16, you can enjoy smoother performance, faster internet speeds, and vibrant visuals—making everything from streaming and gaming to work and socializing a more enjoyable and efficient experience.
 
 
+
 # 18.Tone & Style Adjustments (語氣調整, 文体調整)
+
 
 
 Professional:
 Machine learning (ML) is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed. Through algorithms and statistical models, ML analyzes patterns in data, making predictions or decisions. It is widely used in fields like finance, healthcare, and marketing, where it drives automation, enhances data insights, and supports decision-making. With continued advancements in computational power and data availability, machine learning is becoming a cornerstone of modern technological innovation, offering organizations the ability to create smarter solutions and optimize operations.
 
+
 Informal:
 Machine learning is like teaching computers to learn from experience without directly telling them what to do. It uses data to spot patterns and make decisions or predictions. For example, it’s behind the recommendations you get on Netflix or Spotify. It’s transforming industries like healthcare, finance, and tech by making things smarter and more efficient. As technology and data grow, machine learning is only going to get more powerful, helping companies create better products and services.
+
 
 
 # 19.Paraphrasing & Simplification (改寫練習, 言い換え練習)
 
 
+
 English:
 Deep learning is a neural network technology that analyzes large amounts of data to uncover patterns and insights.
 
+
 Chinese:
 深度學習是一種神經網絡技術，通過分析大量數據來發現模式和洞察。
+
 
 Japanese:
 深層学習は、大量のデータを分析してパターンと洞察を明らかにする神経ネットワーク技術です。
 
 
 
+
 # 20.Sarcastic vs Neutral Explanations (諷刺 vs 中立, 皮肉と中立の比較)
+
 
 
 Sarcastically:
 Oh, climate change? It's just the Earth giving us a little "spring cleaning" by melting ice caps and causing extreme weather events. Who doesn’t love more wildfires, floods, and hurricanes? Nature’s way of keeping things exciting, right?
+
 
 Neutrally:
 Climate change refers to long-term shifts in temperature, precipitation, and weather patterns caused by human activities, particularly the burning of fossil fuels. It leads to rising global temperatures, extreme weather events, and environmental disruptions. Addressing it requires global cooperation and sustainable practices.
 
 
 
+
 # Quiz 1: Advanced Self-Introduction with AI (進階自我介紹 | 高度な自己紹介練習)
+
 
 
 Hello, my name is Peter. I am currently enrolled in a double degree program at Chu University, where I focus on Business Management. In addition to my academic pursuits, I specialize in cooking, which has allowed me to develop a unique blend of creativity and discipline. I am passionate about applying my skills in both business and culinary arts, and I am excited to explore opportunities that combine these areas of expertise in the future.
 
 
+
 Prompt:
 
+
 Please write three versions of a self-introduction for me:
+
 
 Formal Version: A professional introduction that highlights my academic background and expertise.
 Casual Version: A more relaxed and conversational introduction that reflects my personality.
 Creative Version: A unique and imaginative self-introduction that stands out and shows off my skills in a fun way.
 Here’s some background information:
 
+
 My name is Peter.
 I’m currently enrolled in a double degree program at Chu University, focusing on Business Management.
 I specialize in cooking.
 
 
+
 #  Quiz 2: Tone & Style Adaptation Across Different Audiences (語氣與風格調整測試 | 文体の適応テスト)
+
 
 
 1. For a 10-year-old child:
 Machine learning is like teaching a robot how to get better at something by practicing. Imagine you’re teaching it how to play a game. At first, it might make mistakes, but the more it plays, the smarter it gets. It learns from the mistakes and gets better without anyone having to tell it exactly what to do. So, instead of programming every single move, the robot figures it out by itself.
 
+
 2. For a high school student:
 Machine learning is a branch of artificial intelligence where computers learn from data. Instead of being directly programmed with specific instructions, the machine uses patterns in the data to make decisions or predictions. For example, a machine could learn to recognize pictures of cats and dogs by studying thousands of images. Over time, the more data it gets, the better it becomes at understanding new information and solving problems, similar to how humans learn from experience.
 
+
 3. For an AI expert:
 Machine learning (ML) refers to the development of algorithms that allow systems to improve their performance on a task through exposure to data. By leveraging statistical models and optimization techniques, ML algorithms identify patterns and make predictions without explicit programming. Techniques like supervised learning, unsupervised learning, and reinforcement learning enable models to generalize from large datasets. Key challenges in ML include overfitting, bias in data, and ensuring model interpretability, particularly in complex domains like deep learning and neural networks.
+
+
 
 ![image](https://github.com/user-attachments/assets/78a4b877-ec28-45f3-9647-508924ea1974)
 
