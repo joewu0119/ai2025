@@ -57,7 +57,11 @@ Address: Taipei 101
 
 
 French: Bonjour, comment ça va ?
+
+
 Spanish: Hola, ¿cómo estás?
+
+
 Japanese: こんにちは、お元気ですか？
 
 
