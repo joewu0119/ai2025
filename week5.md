@@ -134,3 +134,234 @@ Deepening Social Inequality: The displacement caused by AI automation could disp
 
 Conclusion
 AI’s impact on society is complex and multifaceted. From an economic growth perspective, it holds the promise of driving efficiency and innovation, but it also raises concerns about wealth inequality and market disruption. In terms of ethics, AI has the potential to improve fairness and accessibility, but it must be carefully managed to avoid bias, discrimination, and privacy violations. Finally, regarding workforce automation, AI can transform jobs and create new opportunities, though it also presents significant risks for job displacement and deepening social divides. Balancing these different viewpoints requires thoughtful policies and strategic planning to maximize the benefits of AI while mitigating its risks.
+
+
+
+
+Quiz 1: Advanced Self-Introduction Mastery 
+
+
+Hi, my name is Peter. I’m currently studying at Chung Hua University (CHU), where I’m enrolled in the double degree program. This program allows me to gain knowledge and experience from multiple fields, which I find really exciting. One of my key interests is Dennis, and I enjoy exploring more about it. I’m always eager to learn new things and grow both academically and personally. Nice to meet you!
+
+
+
+ Quiz 2: Chain-of-Thought Reasoning 
+
+
+
+ 1. Automation of Repetitive Tasks
+Impact: AI is being used to automate repetitive tasks, particularly in industries like manufacturing, customer service, and retail.
+Examples: In manufacturing, AI-powered robots are taking over assembly line work. In customer service, AI chatbots handle basic inquiries, reducing the need for human workers in these roles.
+Outcome: This leads to a reduction in demand for jobs involving routine, manual labor but increases the need for workers who can manage and maintain AI systems.
+2. Creation of New Job Categories
+Impact: AI is also creating entirely new categories of jobs that didn’t exist before.
+Examples: Roles such as AI specialists, data scientists, machine learning engineers, and AI ethicists are becoming more common. The rise of AI also drives demand for professionals in cybersecurity, as companies seek to secure their AI systems.
+Outcome: While certain jobs may be displaced, the job market is evolving to include these specialized roles, requiring workers to acquire new skills.
+3. Enhanced Decision-Making and Productivity
+Impact: AI tools are enhancing decision-making by analyzing vast amounts of data more quickly and accurately than humans can.
+Examples: In fields like finance, AI algorithms can analyze market trends and make predictions that help businesses make informed decisions. In healthcare, AI helps doctors make diagnoses more accurately, saving time and improving patient care.
+Outcome: With AI handling analysis and decision-making, employees can focus on higher-level tasks that require human judgment and creativity, increasing overall productivity.
+4. AI in Education and Skill Development
+Impact: As the job market demands new skills, AI is playing a crucial role in education and training.
+Examples: Online learning platforms use AI to provide personalized education experiences. AI-driven systems recommend courses and resources tailored to an individual’s learning progress, helping people upskill or reskill for new roles.
+Outcome: Workers in Taiwan can more easily adapt to the changing job market by acquiring the skills needed for emerging AI-related jobs.
+5. Changes in Labor Demand
+Impact: Certain industries are seeing an increased demand for AI-related roles, while others may see a decline in job openings for roles that AI can perform.
+Examples: The tech industry is booming as companies need more AI engineers, while roles in data entry and simple customer service are diminishing due to automation.
+Outcome: This shift means the labor market in Taiwan is becoming more competitive for high-tech jobs, but workers with the right skills are in high demand.
+6. Collaboration Between Humans and AI
+Impact: Instead of AI replacing all human jobs, it often collaborates with human workers to enhance their capabilities.
+Examples: In creative industries like design and content creation, AI tools help workers by automating parts of the process (e.g., generating ideas, assisting with layouts, etc.), allowing humans to focus on higher-level creative tasks.
+Outcome: This leads to more efficient and innovative workplaces, but requires workers to adapt by learning how to work alongside AI.
+7. Ethical and Regulatory Changes
+Impact: As AI grows, there are increasing concerns about ethics, privacy, and fairness, which may lead to regulatory changes.
+Examples: The Taiwanese government might introduce new laws to regulate AI deployment in areas like hiring practices, data protection, and job displacement.
+Outcome: This will impact the job market by requiring businesses to adapt to new ethical guidelines and creating demand for legal professionals and policy experts in AI.
+8. AI’s Influence on Traditional Industries
+Impact: AI is influencing traditional industries in Taiwan, like agriculture and manufacturing, driving digital transformation.
+Examples: In agriculture, AI systems are being used to monitor crop health and optimize farming practices. In manufacturing, AI-driven predictive maintenance reduces downtime and enhances efficiency.
+Outcome: These industries require workers who are skilled in AI applications, creating new opportunities while phasing out old, manual job roles.
+9. Global Competition and Outsourcing
+Impact: As AI technology develops rapidly, Taiwan is increasingly competing with other nations to maintain its position as a tech leader. AI can also be outsourced to countries with lower labor costs.
+Examples: Global companies may outsource AI-driven tasks like data analysis or customer service, potentially reducing local job opportunities.
+Outcome: Taiwan must focus on innovation and upskilling its workforce to remain competitive in the global job market.
+10. Social Impact
+Impact: AI’s impact on jobs might lead to increased inequality and social challenges, as those without the proper skills could face job displacement.
+Examples: There may be job losses in sectors that AI is heavily automating, such as transport and logistics (e.g., self-driving vehicles). However, workers with the right skills (e.g., in AI development) will see more opportunities.
+Outcome: Taiwan needs to focus on social policies, such as retraining programs and support for displaced workers, to ensure an inclusive transition to an AI-powered economy.
+Conclusion:
+AI is transforming the job market in Taiwan by automating tasks, creating new roles, improving productivity, and changing labor demands. While it may displace some jobs, it also opens up opportunities for those with the right skills and can lead to increased innovation. For Taiwan to fully benefit from these changes, it must invest in education, reskilling programs, and regulations that address the social and ethical challenges posed by AI.
+
+
+
+
+Quiz 3: Zero-Shot vs. Few-Shot Learning 
+
+
+
+Deep learning is a type of machine learning that uses artificial neural networks to process and learn from large amounts of data. These networks consist of layers of interconnected nodes, which work together to identify patterns and features in the data, much like the human brain. By training on vast datasets, deep learning models can perform complex tasks such as image recognition, speech recognition, and language translation. Unlike traditional algorithms, deep learning automatically extracts features, requiring less manual intervention. Its effectiveness is driven by powerful computational resources and large-scale data, enabling it to solve problems with high accuracy.
+
+
+
+Quiz 4: Style & Tone Adaptation 
+
+
+
+1. Professional Style
+Artificial Intelligence (AI) plays a pivotal role in the transformation of education by enabling personalized learning experiences, improving administrative efficiency, and fostering data-driven decision-making. AI-driven tools allow educators to tailor content to individual learning styles, identify student weaknesses, and provide real-time feedback. Additionally, AI automates administrative tasks such as grading and scheduling, allowing educators to focus more on instruction. By leveraging AI's ability to analyze vast amounts of data, educational institutions can make informed decisions that enhance overall educational outcomes, improve resource allocation, and streamline operations.
+
+2. Casual Style
+AI is making a huge impact on education by making learning more personalized and efficient. For example, smart tutoring systems can help students learn at their own pace, while teachers can use AI tools to spot where students might be struggling. Plus, AI is great at taking care of repetitive tasks like grading and scheduling, giving educators more time to focus on teaching. With AI analyzing tons of data, schools can also make better decisions about how to improve programs and help students succeed in ways that work best for them.
+
+3. Storytelling Style
+Imagine a classroom where every student gets exactly what they need, right when they need it. Sarah, a high school teacher, struggles to give each of her 30 students the attention they deserve. Then, her school introduces an AI-powered platform that tracks each student’s progress, suggesting personalized learning paths. Sarah no longer has to manually assess every student's weaknesses; the AI does it for her. With that extra time, Sarah can focus on creative lessons and spend one-on-one time with those who need it most. This is the power of AI in education—transforming both teaching and learning for the better.
+
+
+
+
+
+Quiz 5: Data Summarization Consistency 
+
+
+
+Summary 1:
+Herbie Hancock, the legendary jazz pianist, admits to struggling with modern-day procrastination, especially falling into YouTube rabbit holes about music software, health, and tech. This is part of the reason he hasn’t released an album in 15 years. Despite embracing technology throughout his career, Hancock, now 84, confesses that he sometimes gets "victimized" by distractions. Speaking from his home in West Hollywood, he humorously acknowledges this as just part of life.
+
+Summary 2:
+Jazz icon Herbie Hancock, 84, openly shares his struggles with procrastination, especially falling into YouTube rabbit holes on topics like music software and tech. He admits this is partly why he hasn't released a new album in 15 years. While he's always embraced technology in his music, he humorously acknowledges that he's often the one getting distracted by it, rather than mastering it. Speaking from his West Hollywood home, Hancock laughs about the challenges of modern distractions.
+
+Summary 3:
+Herbie Hancock, the renowned jazz pianist, reveals that he faces the same procrastination issues as many people today, particularly getting lost in YouTube videos on subjects like music software and health. This distraction is one reason he hasn’t released an album in 15 years. At 84, Hancock remains an advocate for technology in music but admits that sometimes he gets caught up in it instead of mastering it. Speaking from his West Hollywood home, he chuckles about the challenges of modern-day distractions.
+
+
+
+Quiz 6: AI-Powered Recommendation System
+
+
+
+Chilliesine Indian Restaurant - Hsinchu
+
+Address: No. 159, Dongmen Street, East District, Hsinchu City, Taiwan 300
+Phone: +886 3 523 1234
+Din Tai Fung
+
+Address: B1, No. 323, Xida Road, East District, Hsinchu City, Taiwan 300
+Phone: +886 3 523 6222
+The Promenade
+
+Address: 12F, No. 1, Zhonghua Road, East District, Hsinchu City, Taiwan 300
+Phone: +886 3 523 8000
+A CUT Steakhouse
+
+Address: No. 265, Guangming 6th Road, Zhubei City, Taiwan 302
+Phone: +886 3 560 6666
+Pizza Rock Hsinchu
+
+Address: No. 100, Beimen Street, Hsinchu City, Taiwan 300
+Phone: +886 3 523 4567
+
+
+
+
+Quiz 7: Real-World Prompt Engineering Challenge 
+
+
+
+Basic Prompt:
+Accuracy: The basic prompt is valid, but it’s quite open-ended and lacks the context that might lead to a more detailed and nuanced answer. It’s accurate in asking the question but doesn't provide enough specifics to focus the response.
+
+Depth: The depth is minimal in the basic prompt. It asks a simple question without requesting examples or specific areas where AI can improve administration. This leaves a lot of room for interpretation but doesn’t guide towards a comprehensive answer.
+
+Clarity: The prompt is clear, concise, and easy to understand. The simplicity of the question makes it accessible, but it might not lead to a rich, insightful response due to its general nature.
+
+Usefulness: The basic prompt is useful as an introductory or brainstorming question. However, it lacks the specifics to generate a thorough analysis, so it is more of a conversation starter than a prompt that would lead to detailed exploration.
+
+
+
+Quiz 8: Article Comprehension and Critical Analysis
+
+
+
+1. How clearly does the AI identify the main idea and supporting points?
+Clarity of Main Idea and Supporting Points:
+The AI clearly identifies the main ideas by focusing on the core aspects of how technology is changing traditional teaching methods and the challenges in adopting digital classrooms. Each question is answered by breaking down the information into digestible parts. For example:
+
+The main idea for how technology is changing teaching includes a shift to interactive learning, online platforms, personalized learning, and increased collaboration.
+For the challenges, the AI highlights issues such as the digital divide, teacher training, distractions, technical difficulties, and over-reliance on technology.
+The points are well-organized and easy to understand, ensuring that the reader can follow the argument and see the supporting details clearly.
+
+2. What additional perspectives or examples did the AI provide that enhance your understanding?
+Additional Perspectives/Examples:
+The AI adds specific examples of technology tools like adaptive learning software, online quizzes, and virtual labs, which provide concrete illustrations of how technology is used in education. This enriches the explanation by providing real-world applications, helping to clarify how technology impacts teaching beyond just abstract concepts.
+
+Moreover, the AI discusses both positive and negative aspects, presenting a balanced perspective. It doesn't just focus on the benefits (e.g., personalized learning) but also brings in the challenges (e.g., digital divide, distraction) that must be addressed. This makes the response more comprehensive and nuanced.
+
+3. How can critical analysis of articles improve your English reading and reasoning skills?
+Improvement in Reading:
+Critical analysis encourages deeper engagement with the text. When you break down an article and identify its main ideas and supporting points, you practice active reading. This helps you focus on understanding not just the surface-level meaning but also the structure, purpose, and implications of the text. It also trains you to identify biases, assumptions, or gaps in information, which is crucial for comprehending more complex texts.
+
+Improvement in Reasoning:
+Analyzing articles critically improves your reasoning by teaching you to evaluate arguments logically. As you identify the main ideas, supporting points, and counterarguments, you become better at making connections between ideas and understanding how evidence supports conclusions. This develops your ability to synthesize information and form your own opinions based on the evidence provided.
+
+Enhancing Language Skills:
+Critical analysis also improves language skills by exposing you to different writing styles and vocabulary. As you dissect how authors present their ideas and arguments, you learn how to structure your own writing more effectively. You also become more adept at recognizing language nuances, such as tone, connotation, and persuasion techniques.
+
+By practicing this skill regularly, you not only become a more thoughtful reader but also a more effective communicator and writer, as it strengthens your ability to reason logically and present ideas clearly.
+
+
+
+
+
+Quiz 9: Vocabulary Enhancement and Contextual Usage
+
+
+
+Step 1: Vocabulary Extraction
+Instructing GAI to extract advanced vocabulary words:
+
+“Identify five advanced vocabulary words from the article ‘The Impact of Technology on Education’ and provide their definitions.”
+
+Step 2: Contextual Application
+Once the vocabulary words are identified, ask GAI to create one original sentence for each word, ensuring that the context reflects the theme of the article. Optionally, ask for synonyms or antonyms to expand your vocabulary network.
+
+For example:
+
+“Create one original sentence for each of the following advanced vocabulary words: 'personalized', 'engagement', 'adaptive', 'infrastructure', and 'digital divide'. Make sure the sentences relate to the theme of the article.”
+
+Step 3: Practice Exercise
+Challenge yourself to use at least three of the extracted words in a short paragraph, then compare your paragraph with GAI’s example sentences. This will help you assess your understanding of the words and their proper usage in context.
+
+Example instruction:
+
+“Write a short paragraph (3-5 sentences) using at least three of the vocabulary words provided by GAI, then compare your sentences with the examples given.”
+
+Reflection Questions:
+How did GAI explain the meanings and contextual usage of the vocabulary?
+Reflect on how GAI defined each word and provided sentences that highlighted the practical use of the words in educational contexts. Did the definitions make sense in the context of the article? Were the sentences easy to understand?
+In what ways do the example sentences enhance your understanding of each word?
+Think about how the sentences helped you visualize how the words function in real-world contexts. Did they clarify the meaning and usage? Did the sentences provide enough context for you to grasp subtle nuances?
+How can using new vocabulary in your writing improve overall English proficiency?
+Consider how actively incorporating new words into your writing helps reinforce their meanings. By using them in different contexts, you enhance retention and fluency. How does applying vocabulary in your own sentences improve both your writing and your understanding?
+Actionable Recommendations:
+Vocabulary Journal:
+
+Maintain a journal with new words, their definitions, and sample sentences you create or come across. Reviewing your journal regularly will help reinforce these words in your vocabulary.
+Peer Review:
+
+Exchange paragraphs or vocabulary exercises with classmates or language learners. Discuss the words you’ve learned, and ask for feedback on how effectively you’ve used them in your writing.
+Repeat Practice:
+
+Regularly revisit and update your vocabulary list based on GAI’s suggestions or other reading materials. Continuously practicing with new words in different contexts helps solidify your vocabulary.
+
+
+
+
+Quiz 10: Article Summarization and Paraphrasing
+
+
+
+The article "The Impact of Technology on Education" explores how technology is revolutionizing education by enhancing access, personalization, and collaboration. Online platforms and digital tools provide flexible learning opportunities, making education more accessible worldwide. Adaptive learning technologies cater to individual student needs, promoting personalized learning experiences. Virtual classrooms and online collaboration tools foster engagement and communication among students and teachers. However, the article also addresses challenges such as the digital divide, unequal access to technology, and the need for teacher training. Despite these hurdles, technology continues to shape the future of education, offering both opportunities and obstacles.
+
+
+
+
