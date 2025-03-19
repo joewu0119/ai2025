@@ -15,6 +15,29 @@
 
 
 
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/b1956f5d-88ca-410a-b065-ccd9902b4c76)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Quiz 1: AI-Powered Self-Introduction Across Different Formats (多格式自我介紹 | 異なるフォーマットの自己紹介)
 
 
