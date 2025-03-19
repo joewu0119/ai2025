@@ -137,15 +137,31 @@ AI’s impact on society is complex and multifaceted. From an economic growth pe
 
 
 
+## **Pre-Quiz Preparation: Train Your GAI for Higher Accuracy**
 
-Quiz 1: Advanced Self-Introduction Mastery 
+Before starting the quizzes, it is essential that students “train” their AI models by:
+
+- **Providing Context:** Begin each session by explaining the scenario.*Example:* “I am a CHU student in [Your Major] interested in [Your Interest].”
+- **Utilizing Few-Shot Learning:** Include 1–2 examples in your prompt to set a clear expectation.*Example:* “Here’s an example of the desired output…”
+- **Iterative Refinement:** Run multiple tests to fine-tune responses and increase consistency.
+
+*Actionable Recommendation 1:* Create a “training prompt” document to help standardize your input before each quiz.
+
+*Actionable Recommendation 2:* Experiment with varying levels of detail in your training prompt and note how the output improves.
+
+*Actionable Recommendation 3:* Record and review several iterations to understand how adjustments affect the AI's performance.
+
+
+
+
+# Quiz 1: Advanced Self-Introduction Mastery 
 
 
 Hi, my name is Peter. I’m currently studying at Chung Hua University (CHU), where I’m enrolled in the double degree program. This program allows me to gain knowledge and experience from multiple fields, which I find really exciting. One of my key interests is Dennis, and I enjoy exploring more about it. I’m always eager to learn new things and grow both academically and personally. Nice to meet you!
 
 
 
- Quiz 2: Chain-of-Thought Reasoning 
+ # Quiz 2: Chain-of-Thought Reasoning 
 
 
 
@@ -195,7 +211,7 @@ AI is transforming the job market in Taiwan by automating tasks, creating new ro
 
 
 
-Quiz 3: Zero-Shot vs. Few-Shot Learning 
+# Quiz 3: Zero-Shot vs. Few-Shot Learning 
 
 
 
@@ -203,7 +219,7 @@ Deep learning is a type of machine learning that uses artificial neural networks
 
 
 
-Quiz 4: Style & Tone Adaptation 
+# Quiz 4: Style & Tone Adaptation 
 
 
 
@@ -220,7 +236,7 @@ Imagine a classroom where every student gets exactly what they need, right when 
 
 
 
-Quiz 5: Data Summarization Consistency 
+# Quiz 5: Data Summarization Consistency 
 
 
 
@@ -235,7 +251,7 @@ Herbie Hancock, the renowned jazz pianist, reveals that he faces the same procra
 
 
 
-Quiz 6: AI-Powered Recommendation System
+# Quiz 6: AI-Powered Recommendation System
 
 
 
@@ -263,7 +279,7 @@ Phone: +886 3 523 4567
 
 
 
-Quiz 7: Real-World Prompt Engineering Challenge 
+# Quiz 7: Real-World Prompt Engineering Challenge 
 
 
 
@@ -278,7 +294,7 @@ Usefulness: The basic prompt is useful as an introductory or brainstorming quest
 
 
 
-Quiz 8: Article Comprehension and Critical Analysis
+# Quiz 8: Article Comprehension and Critical Analysis
 
 
 
@@ -312,7 +328,7 @@ By practicing this skill regularly, you not only become a more thoughtful reader
 
 
 
-Quiz 9: Vocabulary Enhancement and Contextual Usage
+# Quiz 9: Vocabulary Enhancement and Contextual Usage
 
 
 
@@ -356,7 +372,7 @@ Regularly revisit and update your vocabulary list based on GAI’s suggestions o
 
 
 
-Quiz 10: Article Summarization and Paraphrasing
+# Quiz 10: Article Summarization and Paraphrasing
 
 
 
