@@ -47,6 +47,14 @@
 
 
 
+
+
+# "This portrait depicts a powerfully emotional Lady Liberty, with bold colors and vivid expressions."
+![image](https://github.com/user-attachments/assets/c96f7e24-30cd-4c23-aeb6-ee01fe93df23)
+
+
+
+
 ![image](https://github.com/user-attachments/assets/17b5f25b-807a-4896-a3e8-28f9e9a7573f)
 
 
@@ -73,6 +81,12 @@
 
 
 
+# Crayon Shin-chan on Mount Olympus holding a thunderbolt and surrounded by mythical creatures.
+![image](https://github.com/user-attachments/assets/c1611426-cffd-4c14-af5c-d87503edff36)
+
+
+
+
 # 一座浮島，山峰倒立，瀑布飛流直下。
 ![image](https://github.com/user-attachments/assets/14bb51cc-d84f-4423-8182-17bf6c2e635d)
 
@@ -88,8 +102,18 @@
 
 
 
+# A glowing dragon with white wings soars above a misty valley.
+![image](https://github.com/user-attachments/assets/19941731-6886-4965-b6ef-fa114a360f5b)
+
+
+
 # 一座擁有摩天大樓和飛行器的未來城市。
 ![image](https://github.com/user-attachments/assets/ee5a8e91-e984-46ec-b894-9791a24c8441)
+
+
+# A futuristic city with super tall skyscrapers and flying cars.
+![image](https://github.com/user-attachments/assets/f119cdcd-55cd-43a2-973d-75fc6076a225)
+
 
 
 
@@ -98,8 +122,20 @@
 
 
 
+# This is a gold watch with a strong taste of money, similar to Rolex
+![image](https://github.com/user-attachments/assets/29d3f093-f1f7-48a6-aa6d-0284c14e8079)
+
+
+
+
 # 藍天白雪的山峰全景
 ![image](https://github.com/user-attachments/assets/5d3aedaf-b645-40fa-8b71-1aa226c32793)
+
+
+
+# Panoramic view of snowy mountain peaks in gray sky
+![image](https://github.com/user-attachments/assets/7ee8fa76-c424-43b5-95c7-b53497fc543f)
+
 
 
 
