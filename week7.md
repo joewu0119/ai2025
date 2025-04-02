@@ -275,15 +275,26 @@ Adding dynamic elements (moving vehicles, pedestrians) increases realism.
 描述 動態元素（飛行車輛、行人）來提升場景的生動感。
 
 
+Generate image: This is a brand packaging design with fashion and beauty as the core, using bright red and blue as the main tones and fashionable and advanced visual experience, adopting a pure and luxurious style, and matching crystals and diamonds to create an atmosphere. The overall structure is exaggerated and highlights the brand's sense of fashion.
+
+
+生成形象：這是一款以時尚美容為核心的品牌包裝設計，運用鮮豔的紅色與藍色為主調和時尚高級的視覺感受，採用清奢風格，搭配水晶和鑽石營造氛圍，整體構築共同浮誇，突顯品牌時尚感。
 
 
 
+![image](https://github.com/user-attachments/assets/442d4fbb-a104-468d-92b1-e1819a3f3a73)
 
 
-
-
-
-
-
+Generated image: This is an art museum exterior design with Japanese Zen style as the core. It uses natural materials such as stone and teak as the main tone to create a visual experience of transcendence. It uses Japanese-style decorations such as tatami and copper pots and copper products made by a Japanese century-old copper brand to create an atmosphere, highlighting the Zen spirit of the art museum.
   
+
+生成形象：這是一款以日式禪風為核心的美術館外觀設計，運用自然材質像是石頭和柚木為主調和超脫出現時靈魂出竅的視覺感受，採用榻榻米等日式風格裝潢搭配日本百年銅器品牌所製造的銅鍋銅製品營造氛圍，突美術館的禪風精神。
+
+
+![image](https://github.com/user-attachments/assets/f3f2405d-55e2-40c0-b2e9-d875aceb8c39)
+
+
+
+
+
 
