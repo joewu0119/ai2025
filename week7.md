@@ -294,7 +294,16 @@ Generated image: This is an art museum exterior design with Japanese Zen style a
 ![image](https://github.com/user-attachments/assets/f3f2405d-55e2-40c0-b2e9-d875aceb8c39)
 
 
+Case 1: beautiful blonde woman X long bus X strawberry caterpillar 
 
 
+![image](https://github.com/user-attachments/assets/9f65caf3-54da-4d45-8c21-612c7d0b2391)
+
+
+
+ Case 2: Please refer to the case 1 then search and pick up 3 images about dogs and cats then merge them together, and submit your art work by the format of Case 1.
+
+
+![image](https://github.com/user-attachments/assets/c954cb53-6f18-4414-b998-285e3a8add04)
 
 
