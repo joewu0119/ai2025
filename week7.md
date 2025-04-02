@@ -297,7 +297,7 @@ Generated image: This is an art museum exterior design with Japanese Zen style a
 Case 1: beautiful blonde woman X long bus X strawberry caterpillar 
 
 
-![image](https://github.com/user-attachments/assets/9f65caf3-54da-4d45-8c21-612c7d0b2391)
+![image](https://github.com/user-attachments/assets/996cdf20-cca0-4a9f-95e3-0c68808e299f)
 
 
 
@@ -306,4 +306,23 @@ Case 1: beautiful blonde woman X long bus X strawberry caterpillar
 
 ![image](https://github.com/user-attachments/assets/c954cb53-6f18-4414-b998-285e3a8add04)
 
+
+Case 3: Please refer to the case 1 then search and pick up 3 images about cats then merge them together, and submit your art work by the format of Case 1.
+
+
+![image](https://github.com/user-attachments/assets/ca336788-28a1-442c-ad08-eb10f9de9dfb)
+
+
+
+ Case 4: Please refer to the case 1 then search and pick up 5 images about your country (e.g., Taiwan or Japan) then merge them together, and submit your art work by the format of Case 1.
+
+
+![image](https://github.com/user-attachments/assets/ca6f3564-4e25-48e1-a33c-34a198c6d2b2)
+
+
+ Case 5: Please refer to the case 1 then search and pick up 5 images about the university you will go (e.g., SFSU, UCI, UWE) then merge them together, and submit your art work by the format of Case 1.
+
+
+
+ 
 
