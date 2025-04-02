@@ -215,9 +215,9 @@ Practice prompt refinement by replicating a reference image through multiple ite
 
 
 
-### Final Lab Questions:
+# ### Final Lab Questions:
 
-1. How do specific prompt keywords affect the image output?
+# 1. How do specific prompt keywords affect the image output?
 
 
 How do specific prompt keywords affect the image output? Image generation relies heavily on keywords in the prompt to shape composition, color, style, and details. For example:
@@ -235,7 +235,7 @@ Lighting descriptions (e.g., "soft glow," "high contrast") influence the mood.
 Detailed elements (e.g., "adventurer in leather gear," "neon signs on buildings") refine content accuracy.
 具體細節（如「冒險家穿著皮革裝備」、「建築物上有霓虹標誌」）會影響內容的準確性。
 
-2. What image details are hardest to replicate? Why?
+# 2. What image details are hardest to replicate? Why?
 
   Which image details are the hardest to replicate? Why? Some elements are challenging to reproduce accurately, such as:
 哪些影像細節最難複製？為什麼？ 有些細節難以準確再現，原因如下：
@@ -253,7 +253,7 @@ Extreme perspectives (e.g., "bird’s-eye view of a bustling city," "low-angle s
 極端視角：如「俯瞰角度的城市街景」或「超低角度仰視英雄」，可能會影響透視精準度。
 
 
-3. How can prompts be refined to get closer to a target visual? Provide a revised prompt and explain your reasoning.
+# 3. How can prompts be refined to get closer to a target visual? Provide a revised prompt and explain your reasoning.
 
  How can prompts be improved to better match the target visual outcome? Refining descriptions makes AI-generated images more precise. For example:
 如何改進提示以更接近目標視覺效果？ 具體化描述可以讓 AI 更準確地生成符合期待的影像。例如：
