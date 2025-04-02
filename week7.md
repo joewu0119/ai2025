@@ -189,17 +189,90 @@ Lab 26: Precision Prompting & Image Recreation 🤔
 
 
 
+Practice prompt refinement by replicating a reference image through multiple iterations.
+
+
+**Assignment**: Observe a sample AI image, draft a detailed prompt, refine it through at least three iterations, and analyze differences.
+
+
+![image](https://github.com/user-attachments/assets/5f0d07ae-deb6-46b8-8f19-a45571306670)
 
 
 
+![image](https://github.com/user-attachments/assets/8d57aa8a-3944-4e4f-a66a-2c4203d68c89)
 
 
 
-
- 
-
+這是一款以 自然與有機 為核心的 品牌包裝設計，運用 淺綠與米色 展現 溫暖、清新的視覺感受，採用 簡約高端風格，搭配 柔和的光暈 營造 純粹與健康 的氛圍，整體構圖 穩定而精緻，突顯品牌質感。 😊
 
 
+
+![image](https://github.com/user-attachments/assets/e39cb904-2bfb-4dc6-ae04-5f800143bfdc)
+
+
+
+![image](https://github.com/user-attachments/assets/69e44181-2f7e-493e-9d98-c56f49adb786)
+
+
+
+### Final Lab Questions:
+
+1. How do specific prompt keywords affect the image output?
+
+
+How do specific prompt keywords affect the image output? Image generation relies heavily on keywords in the prompt to shape composition, color, style, and details. For example:
+具體的提示關鍵字如何影響影像輸出？ 影像生成主要依賴提示中的 關鍵字 來決定構圖、色彩、風格和細節。例如：
+
+Scene descriptors (e.g., "cyberpunk city," "steampunk factory") define the environment.
+場景詞（如「賽博龐克城市」、「蒸汽朋克工廠」）會影響整體環境設定。
+
+Style keywords (e.g., "realistic," "impressionist," "cartoon-style") determine artistic rendering.
+風格詞（如「寫實」、「印象派」、「卡通風格」）會影響繪製手法和視覺呈現
+
+Lighting descriptions (e.g., "soft glow," "high contrast") influence the mood.
+光影描述（如「柔和光暈」、「強烈對比」）會影響最終影像的氛圍
+
+Detailed elements (e.g., "adventurer in leather gear," "neon signs on buildings") refine content accuracy.
+具體細節（如「冒險家穿著皮革裝備」、「建築物上有霓虹標誌」）會影響內容的準確性。
+
+2. What image details are hardest to replicate? Why?
+
+  Which image details are the hardest to replicate? Why? Some elements are challenging to reproduce accurately, such as:
+哪些影像細節最難複製？為什麼？ 有些細節難以準確再現，原因如下：
+
+Complex textures and fine details (e.g., "semi-transparent dragon wings" or "intricate fabric patterns"), as AI may struggle with precise rendering.
+複雜紋理與質感：如「半透明龍翅膀」或「精細織物紋理」，AI可能難以準確渲染細微紋路。
+
+Specific poses and movement (e.g., "dancer mid-spin" or "hero kneeling before sprinting"), which may not always align with expectations.
+精確姿勢與動態：如「舞者在空中旋轉」或「英雄半跪地準備衝刺」，姿勢細節可能不完全符合預期。
+
+Merging distinct artistic styles (e.g., "Baroque architecture infused with futuristic technology"), requiring precise stylistic fusion.
+特定藝術風格的融合：如「巴洛克風格但融合未來科技」，需要高度定制化的美學。
+
+Extreme perspectives (e.g., "bird’s-eye view of a bustling city," "low-angle shot of a towering hero"), which may affect the accuracy of depth and composition.
+極端視角：如「俯瞰角度的城市街景」或「超低角度仰視英雄」，可能會影響透視精準度。
+
+
+3. How can prompts be refined to get closer to a target visual? Provide a revised prompt and explain your reasoning.
+
+ How can prompts be improved to better match the target visual outcome? Refining descriptions makes AI-generated images more precise. For example:
+如何改進提示以更接近目標視覺效果？ 具體化描述可以讓 AI 更準確地生成符合期待的影像。例如：
+
+Original Prompt: "A futuristic city with neon lights and flying vehicles."
+原提示：「一座未來城市，霓虹燈光和飛行車輛穿梭。」
+
+Improved Prompt: "A vibrant cyberpunk metropolis where towering skyscrapers glow with neon signs, flying cars weave between steel bridges, fog blankets the streets, and pedestrians wear futuristic attire."
+改進提示：「一座繁華的賽博龐克都市，霓虹燈照耀高樓，空中有飛行車穿越鋼鐵橋樑，街道上瀰漫霧氣，行人穿著未來風格服飾。」 改進原因：
+Reasons for Improvement:
+
+Enhanced details (buildings, bridges, fog, clothing) make the scene more specific.
+增加 細節（高樓、橋樑、霧氣、服飾）讓 AI 更精準地描繪場景。
+
+Emphasizing lighting effects (neon glow) ensures the mood aligns with expectations.
+強調 燈光效果（霓虹燈照耀）以確保氛圍符合期待。
+
+Adding dynamic elements (moving vehicles, pedestrians) increases realism.
+描述 動態元素（飛行車輛、行人）來提升場景的生動感。
 
 
 
